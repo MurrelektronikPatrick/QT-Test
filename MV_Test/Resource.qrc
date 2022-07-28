@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>Actions-document-new-icon.png</file>
+        <file>Close-icon.png</file>
+        <file>My-Documents-icon.png</file>
+    </qresource>
+</RCC>
